@@ -20,7 +20,7 @@
 </ul>
 			<ul>
 				<li>english assingment</li>
-				[holiday homework english.docx](https://github.com/JaineelRParekh/JP.github.io/files/11449388/holiday.homework.english.docx)</ul></section>
+				<a href="https://docs.google.com/document/d/1KtZZko_bvYWuSv-pBe7AximPCVFrZwoF9njAtEoankk/edit?usp=sharing">Click here to see my english assignment</a></ul></section>
 	</main>
 	<footer>
 		<p>Thank you for visiting my website!</p>
