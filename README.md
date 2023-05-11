@@ -5,12 +5,13 @@
 </head>
 <body>
 	<header>
-		<h1>jaineel's website</h1>
+		<h1>jp
+	</h1>
 	</header>
 	<main>
 		<section>
 			<h2>About Me</h2>
-			<p>Hi, my name is Jaineel and I'm a student. I love playing badminton and solve phyics and maths numericals.</p>
+			<p>Hi, my name is Jaineel and I'm a student of std 10th. I love playing badminton and solve phyics and maths numericals.</p>
 		</section>
 		<section>
 			<h2>Holiday Homework</h2>
