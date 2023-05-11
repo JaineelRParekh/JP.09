@@ -16,7 +16,8 @@
 			<h2>Holiday Homework</h2>
 			<ul>
 				<li> math assignment</li>
-				https://docs.google.com/document/d/1xlv3YjV2dDXvEP6JWOuv47FQ_a73TQo4kEDnMaV-O9w/edit?usp=sharing</ul>
+				<a href="https://docs.google.com/document/d/1xlv3YjV2dDXvEP6JWOuv47FQ_a73TQo4kEDnMaV-O9w/edit?usp=sharing">Click here to see my maths assignment </a>
+</ul>
 			<ul>
 				<li>english assingment</li>
 				[holiday homework english.docx](https://github.com/JaineelRParekh/JP.github.io/files/11449388/holiday.homework.english.docx)</ul></section>
