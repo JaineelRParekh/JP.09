@@ -5,7 +5,7 @@
 </head>
 <body>
 	<header>
-		<h1>jaineel'swebsite</h1>
+		<h1>jaineel's website</h1>
 	</header>
 	<main>
 		<section>
