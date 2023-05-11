@@ -1,9 +1,10 @@
+theme
 <html>
 <head>
 	Jaineel's Website
 	
 </head> 
-<body>
+	<body> 
 	<header>
 		<h1>jp.</h1>
 	</header>
