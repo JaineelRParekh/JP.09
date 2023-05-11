@@ -16,7 +16,7 @@
 			<h2>Holiday Homework</h2>
 			<ul>
 				<li> math assignment</li>
-				[holiday hw maths.docx](https://github.com/JaineelRParekh/JP.github.io/files/11449356/holiday.hw.maths.docx)</ul>
+				https://docs.google.com/document/d/1xlv3YjV2dDXvEP6JWOuv47FQ_a73TQo4kEDnMaV-O9w/edit?usp=sharing</ul>
 			<ul>
 				<li>english assingment</li>
 				[holiday homework english.docx](https://github.com/JaineelRParekh/JP.github.io/files/11449388/holiday.homework.english.docx)</ul></section>
