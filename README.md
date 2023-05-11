@@ -15,11 +15,11 @@
 		<section>
 			<h2>Holiday Homework</h2>
 			<ul>
-				<li>Complete math assignment</li>
-				[holiday hw maths.docx](https://github.com/JaineelRParekh/JP.github.io/files/11449356/holiday.hw.maths.docx)
-
-			</ul>
-		</section>
+				<li> math assignment</li>
+				[holiday hw maths.docx](https://github.com/JaineelRParekh/JP.github.io/files/11449356/holiday.hw.maths.docx)</ul>
+			<ul>
+				<li>english assingment</li>
+				[holiday homework english.docx](https://github.com/JaineelRParekh/JP.github.io/files/11449388/holiday.homework.english.docx)</ul></section>
 	</main>
 	<footer>
 		<p>Thank you for visiting my website!</p>
