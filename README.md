@@ -1,8 +1,8 @@
 <html>
 <head>
 	Jaineel's Website
-	<link rel="stylesheet" type="text/css" href="style.css">
-</head>
+	
+</head> 
 <body>
 	<header>
 		<h1>jp.</h1>
