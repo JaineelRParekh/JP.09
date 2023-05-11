@@ -1,4 +1,3 @@
-theme
 <html>
 <head>
 	Jaineel's Website
@@ -6,7 +5,7 @@ theme
 </head> 
 	<body> 
 	<header>
-		<h1>jp.</h1>
+		<h1>jp..</h1>
 	</header>
 	<main>
 		<section>
