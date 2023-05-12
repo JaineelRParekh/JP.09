@@ -9,7 +9,7 @@
 	</header>
 	<main>
 		<section>
-			<h2>About Me</h2>
+			<h2>About Me.</h2>
 			<p>Hi, my name is Jaineel and I'm a student of std 10th. I love playing badminton and solve phyics and maths numericals.</p>
 		</section>
 		<section>
