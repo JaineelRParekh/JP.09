@@ -24,7 +24,9 @@
 		<ul><li> Science assignment</li>
 				<a href="https://docs.google.com/document/d/1ShaaTB92zoZDevGGhQbPwaFcCKCW-B3RDtJckZ8TNd8/edit?usp=sharing"> Click here to see my science assignment </a></ul>
 		<ul><li>  Social science assignment</li>
-				<a href="https://docs.google.com/document/d/1aKS9mCWfPGilj_uzbH8e_1hkYeV9DvB49kYZhQQZI1Q/edit?usp=sharing"> Click here to see my  Social science assignment </a></ul></section>
+				<a href="https://docs.google.com/document/d/1aKS9mCWfPGilj_uzbH8e_1hkYeV9DvB49kYZhQQZI1Q/edit?usp=sharing"> Click here to see my  Social science assignment </a></ul>
+		<ul><li>  Chemistry assignment</li>
+				<a href="https://docs.google.com/document/d/10TlVdYiZ99zPvzdLbiufLjDpG2rVOmjZ53Ijf2Co04I/edit?usp=sharing"> Click here to see my  Chemistry assignment </a></ul></section>
 	</main>
 	<footer>
 		<p>Thank you for visiting my website.</p>
